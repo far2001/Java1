@@ -62,7 +62,7 @@ public class HomeWork2 {
             System.out.print(table[i][j] + " ");
             counter++;
         }
-        System.out.println();
+        System.out.println(); //this is edit on github
     }
 
     }
