@@ -15,7 +15,7 @@ public class GuessTheNumber {
     public static void main(String[] args) {
         System.out.println("Вам даётся 3 попытки угвдать число!");
         playLevel(9);
-        System.out.println("Повторить игру еще раз? 1 – да / 0 – нет");
+        System.out.println("Повторить игру еще раhvз? 1 – да / 0 – нет");
         int input_number = scanner.nextInt();
         if (input_number == 1) {
             playLevel(9);
